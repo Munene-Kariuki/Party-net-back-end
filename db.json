@@ -8,6 +8,78 @@
       "price": 2000,
       "venue": "K.I.C.C Nairobi",
       "location": "Nairobi county"
+    },
+    {
+      "id": 2,
+      "name": "Pizza festival",
+      "image": "https://www.carnifest.com/wp-content/uploads/2019/09/Napoli_Pizza_Village-Photo-www.pizzavillage.it_.jpg",
+      "date": "Aug 27",
+      "price": 2000,
+      "venue": "Waterfront Karen",
+      "location": "Nairobi county"
+    },
+    {
+      "id": 3,
+      "name": "Sol fest",
+      "image": "https://www.kbc.co.ke/wp-content/uploads/2021/11/Sol-Fest-960x753.jpg",
+      "date": "Sep 12",
+      "price": 2200,
+      "venue": "Carnivore grounds",
+      "location": "Nairobi county"
+    },
+    {
+      "id": 4,
+      "name": "Hype fest",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21327ZsrZBkT0ny_2IslDhn-x6SZHXkcMmA&usqp=CAU",
+      "date": "Sep 30",
+      "price": 2200,
+      "venue": "Neptune resort",
+      "location": "Mombasa county"
+    },
+    {
+      "id": 5,
+      "name": "Embu sevens",
+      "image": "https://www.pd.co.ke/wp-content/uploads/2022/05/PG-25-RUGBY-1200x900.jpg",
+      "date": "Sep 30",
+      "price": 1000,
+      "venue": "Moi stadium",
+      "location": "Embu county"
+    },
+    {
+      "id": 6,
+      "name": "Shin city",
+      "image": "https://ocdn.eu/images/pulscms/ZGI7MDA_/5316306a3bac21124788c957a4ecda0a.jpeg",
+      "date": "Oct 6",
+      "price": 2500,
+      "venue": "Buffalo mall",
+      "location": "Nakuru county"
+    },
+    {
+      "id": 7,
+      "name": "Reggea festival",
+      "image": "https://www.kenyans.co.ke/files/styles/article_inner/public/images/news/kon_0.jpg?itok=zn7RWD5o",
+      "date": "Oct 10",
+      "price": 2500,
+      "venue": "Whiskey river",
+      "location": "Nairobi county"
+    },
+    {
+      "id": 8,
+      "name": "Art of jazz",
+      "image": "https://cdn-group.bnpparibas.com/media/images/cache/share/uploads/image/asi_5_1_jazzablanca_2017.jpg",
+      "date": "Aug 19",
+      "price": 1500,
+      "venue": "Pinecone hotel",
+      "location": "Kisumu county"
+    },
+    {
+      "id": 9,
+      "name": "Mombasa carnival",
+      "image": "https://www.goway.com/media/cache/45/a4/45a47399cab8b0fde00824a2168c064b.jpg",
+      "date": "Aug 29",
+      "price": 1500,
+      "venue": "Mombasa carnival",
+      "location": "Mombasa county"
     }
   ]
 }
