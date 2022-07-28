@@ -6,7 +6,7 @@
       "image": "https://media.istockphoto.com/photos/cheering-crowd-of-unrecognized-people-at-a-rock-music-concert-concert-picture-id1189205501?k=20&m=1189205501&s=612x612&w=0&h=fexl_Cmu6AdLatIasGg_XYTkLSeWHCtvhMw1nK5_uDc=",
       "date": "Aug 17",
       "price": 2000,
-      "venue": "K.I.C.C Nairobi",
+      "venue": "K.I.C.C Nairobi, 9.00 pm",
       "location": "Nairobi county"
     },
     {
@@ -15,7 +15,7 @@
       "image": "https://www.carnifest.com/wp-content/uploads/2019/09/Napoli_Pizza_Village-Photo-www.pizzavillage.it_.jpg",
       "date": "Aug 27",
       "price": 2000,
-      "venue": "Waterfront Karen",
+      "venue": "Waterfront Karen, 11.00 am",
       "location": "Nairobi county"
     },
     {
@@ -24,43 +24,43 @@
       "image": "https://www.kbc.co.ke/wp-content/uploads/2021/11/Sol-Fest-960x753.jpg",
       "date": "Sep 12",
       "price": 2200,
-      "venue": "Carnivore grounds",
+      "venue": "Carnivore grounds, 8.30 pm",
       "location": "Nairobi county"
     },
     {
       "id": 4,
       "name": "Hype fest",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21327ZsrZBkT0ny_2IslDhn-x6SZHXkcMmA&usqp=CAU",
-      "date": "Sep 30",
+      "date": "Sep 13",
       "price": 2200,
-      "venue": "Neptune resort",
+      "venue": "Neptune resort, 8.30 pm",
       "location": "Mombasa county"
     },
     {
       "id": 5,
       "name": "Embu sevens",
       "image": "https://www.pd.co.ke/wp-content/uploads/2022/05/PG-25-RUGBY-1200x900.jpg",
-      "date": "Sep 30",
+      "date": "Sep 20",
       "price": 1000,
-      "venue": "Moi stadium",
+      "venue": "Moi stadium, 9.00 am",
       "location": "Embu county"
     },
     {
       "id": 6,
       "name": "Shin city",
       "image": "https://ocdn.eu/images/pulscms/ZGI7MDA_/5316306a3bac21124788c957a4ecda0a.jpeg",
-      "date": "Oct 6",
+      "date": "Sep 25",
       "price": 2500,
-      "venue": "Buffalo mall",
+      "venue": "Buffalo mall, 5.00 pm",
       "location": "Nakuru county"
     },
     {
       "id": 7,
       "name": "Reggea festival",
       "image": "https://www.kenyans.co.ke/files/styles/article_inner/public/images/news/kon_0.jpg?itok=zn7RWD5o",
-      "date": "Oct 10",
+      "date": "Oct 1",
       "price": 2500,
-      "venue": "Whiskey river",
+      "venue": "Whiskey river, 8.00 pm",
       "location": "Nairobi county"
     },
     {
@@ -69,7 +69,7 @@
       "image": "https://cdn-group.bnpparibas.com/media/images/cache/share/uploads/image/asi_5_1_jazzablanca_2017.jpg",
       "date": "Aug 19",
       "price": 1500,
-      "venue": "Pinecone hotel",
+      "venue": "Pinecone hotel, 7.00 pm",
       "location": "Kisumu county"
     },
     {
@@ -78,8 +78,64 @@
       "image": "https://www.goway.com/media/cache/45/a4/45a47399cab8b0fde00824a2168c064b.jpg",
       "date": "Aug 29",
       "price": 1500,
-      "venue": "Mombasa carnival",
+      "venue": "Mombasa carnival, 6.00 pm",
       "location": "Mombasa county"
+    },
+    {
+      "name": "Career fair",
+      "image": "https://techweez.com/wp-content/uploads/2022/06/image2-scaled.jpg",
+      "date": "Aug 17",
+      "price": "1000",
+      "venue": "Ihub, 8.00 am",
+      "location": "Nairobi county",
+      "id": 10
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Paul Mwangi",
+      "review": "I like the UI, it is very clear and I am able to find what I am looking for easily."
+    },
+    {
+      "id": 2,
+      "name": "Denis Kariuki",
+      "review": "Our CEO recommended and we tested and liked it."
+    },
+    {
+      "id": 3,
+      "name": "Melvin Mwenda",
+      "review": "Simple layout made it easy to setup and launch the events I was hosting."
+    },
+    {
+      "id": 4,
+      "name": "Brian Njiru",
+      "review": "Simple layout made it easy to setup and launch the events I was hosting."
+    },
+    {
+      "id": 5,
+      "name": "Joan Ivy",
+      "review": "Online ticketing is made easier. (Took a bit of time getting used to the        functionalities, but worth it)."
+    },
+    {
+      "id": 6,
+      "name": "Kelvin Otieno",
+      "review": "Clean, simple, easy to use. It is the best platform for ticketing by far. Fair pricing."
+    },
+    {
+      "id": 7,
+      "name": "Babu Owino",
+      "review": "It sells tickets. You want me to type more but that is literally the only thing we like."
+    },
+    {
+      "name": "Joshua Kipchirchir",
+      "review": "Best ticketing platform on the internet",
+      "id": 8
+    },
+    {
+      "name": "Bernard Ochieng",
+      "review": "The forward-facing UI for consumers. The simplicity of ticket purchasing and overall clean aesthetic of the design.",
+      "id": 9
     }
   ]
 }
